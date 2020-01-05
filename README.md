@@ -1,7 +1,7 @@
-# vmanager 1.0
+# V-manager 1.0
 V-Manager is a free file manager that Created to help you manage your web server easily.
 
--Feature : <br />
+-Feature : <br /><br />
 Compress folder to Zip <br />
 Extract Zip and tar.gz file <br />
 Edit,delete,rename,delete and chmod file / directory <br />
