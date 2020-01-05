@@ -5,16 +5,16 @@ V-Manager is a free file manager that Created to help you manage your web server
 Compress folder to Zip <br />
 Extract Zip and tar.gz file <br />
 Edit,delete,rename,delete and chmod file / directory <br />
-Move and copy file
-move folder
-mass delete
-delete selected files/directory
-decoder and encoder
-upload file
-execute command
-check server info
-check header info
-make file / directory
-create hash
-play music / video
+Move and copy file <br />
+move folder <br />
+mass delete <br />
+delete selected files/directory <br />
+decoder and encoder <br />
+upload file <br />
+execute command <br />
+check server info <br />
+check header info <br />
+make file / directory <br />
+create hash <br />
+play music / video <br />
 And more...
